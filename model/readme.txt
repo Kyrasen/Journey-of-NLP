@@ -1,0 +1,1 @@
+模型可在modelscope网站上下载：DeepSeek-R1-Distill-Qwen-1.5B
